@@ -19,7 +19,7 @@ the system will show interface with 2 option like this in below:
 [2] Decrypt
 Choose menu you want to use =>
 ```
-you can select of of the menu, but you have to know that Encrypt or Decrypt have to started with a ```+CVars=```
+you can select of the menu, but you have to know that Encrypt or Decrypt have to started with a ```+CVars=```
 
 # An Example
 you select encrypt and fill it with the decrypted text
